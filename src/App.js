@@ -17,11 +17,12 @@ class App extends Component {
   //Reset the Game if a Clicked Character is clicked again!!
   restartGame = () => {
     clickedBirds = []
-    currentScore = 0                               //Reset the score
-    if (this.state.score > highScore)      //update MaxScore only if current score is higher than maxScore
-      highScore = this.state.score
+    // Reset current Score
+    currentScore = 0
+    if (this.state.currentScore > highScore)
+      highScore = this.state.currentScore
 
-    this.setState({                       //update the state variables
+    this.setState({
       currentScore: currentScore,
       highScore: highScore
     })
@@ -59,6 +60,8 @@ class App extends Component {
       }
 
       currentScore++
+
+      console.log(currentScore)
       this.setState({
         currentScore: currentScore,
         highScore: highScore
@@ -73,7 +76,7 @@ class App extends Component {
     return (
 
       <Wrapper >
-        <Nav score={this.state.score}
+        <Nav currentScore={this.state.currentScore}
           highScore={this.state.highScore}
         />
         <Title />
