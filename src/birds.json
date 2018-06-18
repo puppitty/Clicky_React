@@ -1,18 +1,21 @@
 [
   {
     "id": 1,
-    "name": "Acadian Flycatcher",
-    "image": "https://cdn.audubon.org/cdn/farfuture/ultnKZor9cPFMcyALjvFJEFrjJhxsr_-ljICzfTVqWA/mtime:1486670068/sites/default/files/styles/nas_bird_teaser_illustration/public/4492_Sibl_9780307957900_art_r1.jpg?itok=8qXImrfY"
+    "name": "Blue Jay",
+    "image": "https://cdn.audubon.org/cdn/farfuture/ultnKZor9cPFMcyALjvFJEFrjJhxsr_-ljICzfTVqWA/mtime:1486670068/sites/default/files/styles/nas_bird_teaser_illustration/public/4492_Sibl_9780307957900_art_r1.jpg?itok=8qXImrfY",
+    "clicked": false
   },
   {
     "id": 2,
     "name": "Acorn Woodpecker",
-    "image": "https://cdn.audubon.org/cdn/farfuture/rV9bfk6By-hfKO78V7Tz6LTH7MU1MyrstRcH8OY2TaE/mtime:1486671727/sites/default/files/styles/nas_bird_teaser_illustration/public/2420_Sibl_9780307957900_art_r1.jpg?itok=ySesZCv7"
+    "image": "https://cdn.audubon.org/cdn/farfuture/rV9bfk6By-hfKO78V7Tz6LTH7MU1MyrstRcH8OY2TaE/mtime:1486671727/sites/default/files/styles/nas_bird_teaser_illustration/public/2420_Sibl_9780307957900_art_r1.jpg?itok=ySesZCv7",
+    "clicked": false
   },
   {
     "id": 3,
     "name": "American Goldfinch",
-    "image": "https://cdn.audubon.org/cdn/farfuture/hSDgO-dX1na9VZajH8LUXXZbZFW0DYjcPLDuabM2-1c/mtime:1486670171/sites/default/files/styles/nas_bird_teaser_illustration/public/4995_Sibl_9780307957900_art_r1.jpg?itok=js0TRBkE"
+    "image": "https://cdn.audubon.org/cdn/farfuture/hSDgO-dX1na9VZajH8LUXXZbZFW0DYjcPLDuabM2-1c/mtime:1486670171/sites/default/files/styles/nas_bird_teaser_illustration/public/4995_Sibl_9780307957900_art_r1.jpg?itok=js0TRBkE",
+    "clicked": false
   },
   {
     "id": 4,
@@ -27,36 +30,43 @@
   {
     "id": 6,
     "name": "Baltimore Oriole",
-    "image": "https://cdn.audubon.org/cdn/farfuture/zJBevEwx7MX5HOwF-f39f0Ih-cUoDTh1a5V2cC3MYaI/mtime:1486671019/sites/default/files/styles/nas_bird_teaser_illustration/public/4979_Sibl_9780307957900_art_r1.jpg?itok=4Lk6u7w1"
+    "image": "https://cdn.audubon.org/cdn/farfuture/zJBevEwx7MX5HOwF-f39f0Ih-cUoDTh1a5V2cC3MYaI/mtime:1486671019/sites/default/files/styles/nas_bird_teaser_illustration/public/4979_Sibl_9780307957900_art_r1.jpg?itok=4Lk6u7w1",
+    "clicked": false
   },
   {
     "id": 7,
     "name": "Black-tailed Gnatcatcher",
-    "image": "https://cdn.audubon.org/cdn/farfuture/m0M5aJ9D84wqF-c9uPg8e5PjRli_IBmb5YAXZZhLblg/mtime:1486671403/sites/default/files/styles/nas_bird_teaser_illustration/public/5326_Sibl_9780307957900_art_r1.jpg?itok=3NodD2LY"
+    "image": "https://cdn.audubon.org/cdn/farfuture/m0M5aJ9D84wqF-c9uPg8e5PjRli_IBmb5YAXZZhLblg/mtime:1486671403/sites/default/files/styles/nas_bird_teaser_illustration/public/5326_Sibl_9780307957900_art_r1.jpg?itok=3NodD2LY",
+    "clicked": false
   },
   {
     "id": 8,
     "name": "Blackburnian Warbler",
-    "image": "https://cdn.audubon.org/cdn/farfuture/OFz6jWEGieK0WhmZK5SfZWlat6PxjmjbFfscdvlwNKU/mtime:1486682494/sites/default/files/styles/nas_bird_teaser_illustration/public/4661_Sibl_9780307957900_art_r1.jpg?itok=fvZPcaRh"
+    "image": "https://cdn.audubon.org/cdn/farfuture/OFz6jWEGieK0WhmZK5SfZWlat6PxjmjbFfscdvlwNKU/mtime:1486682494/sites/default/files/styles/nas_bird_teaser_illustration/public/4661_Sibl_9780307957900_art_r1.jpg?itok=fvZPcaRh",
+    "clicked": false
   },
   {
     "id": 9,
     "name": "Budgerigar",
-    "image": "https://cdn.audubon.org/cdn/farfuture/SbdSi6pq3M-E3jqJy06115RPRRR6DuJ01asB1KY3ijw/mtime:1486682537/sites/default/files/styles/nas_bird_teaser_illustration/public/5507_Sibl_9780307957900_art_r1.jpg?itok=BUIQUL9o"
+    "image": "https://cdn.audubon.org/cdn/farfuture/SbdSi6pq3M-E3jqJy06115RPRRR6DuJ01asB1KY3ijw/mtime:1486682537/sites/default/files/styles/nas_bird_teaser_illustration/public/5507_Sibl_9780307957900_art_r1.jpg?itok=BUIQUL9o",
+    "clicked": false
   },
   {
     "id": 10,
     "name": "Cerulean Warbler",
-    "image": "https://cdn.audubon.org/cdn/farfuture/YnaRNOcGnkf1NEjYF5gi5026pgaO-hFyeXOiU45fJjg/mtime:1486682844/sites/default/files/styles/nas_bird_teaser_illustration/public/4668_Sibl_9780307957900_art_r1.jpg?itok=06tUTdgw"
+    "image": "https://cdn.audubon.org/cdn/farfuture/YnaRNOcGnkf1NEjYF5gi5026pgaO-hFyeXOiU45fJjg/mtime:1486682844/sites/default/files/styles/nas_bird_teaser_illustration/public/4668_Sibl_9780307957900_art_r1.jpg?itok=06tUTdgw",
+    "clicked": false
   },
   {
     "id": 11,
     "name": "Dickcissel",
-    "image": "https://cdn.audubon.org/cdn/farfuture/p5ADDRFpBfL7lageh7c4iZNWxMTuI36dXh0OOHNf688/mtime:1486686474/sites/default/files/styles/nas_bird_teaser_illustration/public/3493_Sibl_9780307957900_art_r1.jpg?itok=1MWsQgA4"
+    "image": "https://cdn.audubon.org/cdn/farfuture/p5ADDRFpBfL7lageh7c4iZNWxMTuI36dXh0OOHNf688/mtime:1486686474/sites/default/files/styles/nas_bird_teaser_illustration/public/3493_Sibl_9780307957900_art_r1.jpg?itok=1MWsQgA4",
+    "clicked": false
   },
   {
     "id": 12,
     "name": "Eastern Bluebird",
-    "image": "https://cdn.audubon.org/cdn/farfuture/9Z7V3UFjnP2HXfGKU1fqLeWb2oJPWS57fA6cL_lYOCQ/mtime:1486685659/sites/default/files/styles/nas_bird_teaser_illustration/public/038_Sibl_9780307957900_art_r1.jpg?itok=JkpdG55p"
+    "image": "https://cdn.audubon.org/cdn/farfuture/9Z7V3UFjnP2HXfGKU1fqLeWb2oJPWS57fA6cL_lYOCQ/mtime:1486685659/sites/default/files/styles/nas_bird_teaser_illustration/public/038_Sibl_9780307957900_art_r1.jpg?itok=JkpdG55p",
+    "clicked": false
   }
 ]
