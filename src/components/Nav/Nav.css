@@ -1,5 +1,6 @@
-.container {
-
+.container-fluid {
+padding: 40px;
+margin-top: 0px;
 }
 
 .nav-bar {
@@ -11,6 +12,7 @@
   min-height: 100px;
   text-align: center;
   display: inline;
+  padding: 0px;
   
 
 }
