@@ -1,0 +1,25 @@
+.container {
+
+}
+
+.nav-bar {
+  /* position: fixed;
+  top: 0;
+  left: 0; */
+  /* background: red; */
+  background-color: skyblue;
+  min-height: 100px;
+  text-align: center;
+  display: inline;
+  
+
+}
+
+nav-bar a {
+  color: #fff;
+}
+
+ul {
+  list-style-type: none;
+}
+

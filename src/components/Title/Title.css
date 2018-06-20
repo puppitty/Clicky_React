@@ -6,3 +6,14 @@
   color:red;
   margin-bottom: 50px;
 }
+.titlearea {
+  background:url('./banner.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  min-height: 200px;
+  text-align: center;
+  vertical-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
